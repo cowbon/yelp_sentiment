@@ -1,0 +1,4 @@
+nltk_data
+models/__pycache__
+tokenizer.pickle
+GoogleNews-vectors-negative300.bin.gz
